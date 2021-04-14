@@ -1,6 +1,12 @@
 # backend
 Golang
 
+# Go
+https://ru.wikipedia.org/wiki/Go
+
+# Введение в программирование на Go
+http://golang-book.ru/
+
 # Amazon Lambda with Golang
 https://habr.com/ru/post/351744/
 
